@@ -115,9 +115,9 @@ In this challenge, you'll explore Firebase Genkit Monitoring to understand the r
 
 ### Description
 
-Explore the Firebase Genkit Monitoring and understand the application's performance and execution. Navigate to the Genkit monitoring dashboard on the firebase console by selecting "Genkit" in the left-side panel under "AI" product category.
+Explore the Firebase Genkit Monitoring and understand the application's performance and execution. Navigate to the Genkit monitoring dashboard on the Firebase console by selecting "Genkit" in the left-side panel under "AI" product category.
 
-1. Open the [firebase console](https://console.firebase.google.com/) and find the **Genkit Metrics** in the firebase project connected to the **current** _Google Cloud Platform_ project.
+1. Open the [firebase console](https://console.firebase.google.com/) and find the **Genkit Metrics** in the Firebase project connected to the **current** _Google Cloud Platform_ project.
 1. **Assess overall health**: Based on this high-level view, what potential areas look like they might need attention?
 1. **Inspect by feature**: Identify individual GenAI _features_ in the app.
 1. **Find the critical path**: Isolate the feature that handles core user interactions. Analyze its metrics.
