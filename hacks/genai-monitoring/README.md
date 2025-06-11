@@ -81,7 +81,7 @@ git checkout main -- chat_server_go frontend nginx pgvector
   ![this](./images/web_preview.png)
 
 - Login using your name.
-- Get to know the **Movie Guru** application by chatting with it.
+- Get the **Movie Guru** application to recommend you a highly rated funny horror movie.
 
 ### Success Criteria
 
